@@ -1,0 +1,40 @@
+
+body{
+margin: 0;
+font-size: medium;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color:azure;
+
+}
+
+table{
+border-collapse: collapse;
+
+
+}
+
+    
+
+th{
+text-transform: capitalize;
+text-align: left;
+
+}
+
+th:hover{
+color: teal;
+text-decoration: none;
+text-align: left;
+
+}
+
+a:hover{
+    color: red;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+
